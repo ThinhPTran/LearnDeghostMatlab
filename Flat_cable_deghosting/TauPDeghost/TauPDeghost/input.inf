@@ -1,0 +1,13 @@
+input_binary_file:  data_with_ghost
+deghost_binary_file:  deghost.bin 
+vwater: 1500
+recover_eps: 0.01
+src_depth: 16.0
+rec_depth: 32.0
+nt: 500
+nx: 401
+dt: 0.004
+dx: 8.0
+dp: 1.3333e-6
+xmin: -1600
+

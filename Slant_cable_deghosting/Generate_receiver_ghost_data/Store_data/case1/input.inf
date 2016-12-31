@@ -1,0 +1,21 @@
+Nx: 4000
+Nz: 4000
+Nt: 10001
+xmin: 0.0
+zmin: 0.0
+tmin: 0.0
+h: 1
+dt: 0.0002
+ghost_data: 0
+tapper_width: 15
+boundary_width: 1000
+Nsave: 20
+num_src: 1
+num_rec: 101
+source_wavelet_file: source_wavelet
+source_position_file: source_pos
+receiver_position_file: rec_pos
+velocity_filename: model1.bin
+receiver_data: receiver_data
+
+

@@ -1,0 +1,4 @@
+g++ -g -O3 -fopenmp  -c main.C -o main.o    -I/include
+In file included from main.C:7:
+TauP2DDeghost.H:18:22: error: FxTaup2D.H: No such file or directory
+gmake: *** [main.o] Error 1

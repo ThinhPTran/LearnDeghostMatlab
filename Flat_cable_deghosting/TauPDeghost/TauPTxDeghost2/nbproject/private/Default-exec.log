@@ -1,0 +1,12 @@
+called: g++
+	/home/tpthinh/Copy/Learn/Programming/Deghost/Flat_cable_deghosting/TauPDeghost/TauPTxDeghost1
+	g++
+	-g
+	-O3
+	-fopenmp
+	-c
+	main.C
+	-o
+	main.o
+	-I/include
+

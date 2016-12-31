@@ -1,0 +1,7 @@
+1.4	sfsuread	Variable_depth_streamer/Pre-migration-deghosting/Ccode1:	thinh@thinh-pc	Thu Oct  3 17:23:24 2013
+
+	n2=1001
+	data_format="native_int"
+	esize=4
+	in="/home/thinh/Data/tfile@"
+	n1=91
